@@ -1,7 +1,7 @@
 Here is a SQL query with an inner join
 
 SELECT DISTINCT (A.country),
-       COUNT (DISTINCT D.customer id) AS all customer count.
+       COUNT (DISTINCT D.customer id) AS all customer count,
        COUNT (DISTINCT A.country) AS top_customer_count
 FROM country A
 INNER JOIN city B
