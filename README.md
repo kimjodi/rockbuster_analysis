@@ -9,6 +9,6 @@ Rockbuster a fictious movie company is planning to launch an online video rental
 
 * View Tableau visualizations [here](https://public.tableau.com/app/profile/jodi.kim).
 
-### Tools
+## Tools
 * PostgreSQL
 * Tableau
